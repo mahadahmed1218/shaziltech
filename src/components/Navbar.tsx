@@ -29,7 +29,7 @@ const Navbar = () => {
               whileTap={{ scale: 0.95 }}
               className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
             >
-              Shazil Teach
+              Mahad
             </motion.div>
           </Link>
 

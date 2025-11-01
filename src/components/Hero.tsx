@@ -14,7 +14,7 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-blue-600 bg-clip-text text-transparent bg-[length:200%_auto] animate-gradient"
           >
-            Welcome to Shazil Teach
+            Welcome to Mahad
           </motion.h1>
 
           <motion.p

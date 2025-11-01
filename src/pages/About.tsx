@@ -12,7 +12,7 @@ const About = () => {
           className="text-center mb-16"
         >
           <h1 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            About Shazil Teach
+            About Mahad
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
             Empowering learners worldwide with innovative educational technology and 
@@ -33,7 +33,7 @@ const About = () => {
               Our Mission
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              At Shazil Teach, we believe that education should be accessible, engaging, 
+              At Mahad, we believe that education should be accessible, engaging, 
               and transformative. Our mission is to provide high-quality educational content 
               through a modern platform that adapts to each learner's needs. We combine 
               cutting-edge technology with proven teaching methodologies to create an 

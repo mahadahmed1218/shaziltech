@@ -74,8 +74,8 @@ const Contact = () => {
                   {
                     icon: '📧',
                     label: 'Email',
-                    value: 'info@shazilteach.com',
-                    link: 'mailto:info@shazilteach.com',
+                    value: 'info@mahad.com',
+                    link: 'mailto:info@mahad.com',
                   },
                   {
                     icon: '📞',

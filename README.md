@@ -1,4 +1,4 @@
-# Shazil Teach - Modern Learning Platform
+# Mahad - Modern Learning Platform
 
 A modern, responsive React 18 + TypeScript application built with Vite, featuring Tailwind CSS, React Router, and Framer Motion animations.
 
@@ -44,7 +44,7 @@ src/
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd "Shazil Teach"
+   cd "Mahad"
    ```
 
 2. **Install dependencies:**

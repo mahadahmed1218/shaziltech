@@ -29,7 +29,7 @@ const Footer = () => {
             className="col-span-1 md:col-span-2"
           >
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-4">
-              Shazil Teach
+              Mahad
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4 max-w-md">
               Empowering learners with modern educational tools and innovative teaching methods.
@@ -109,7 +109,7 @@ const Footer = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800 text-center text-sm text-gray-600 dark:text-gray-400"
         >
-          <p>&copy; {currentYear} Shazil Teach. All rights reserved.</p>
+          <p>&copy; {currentYear} Mahad. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
